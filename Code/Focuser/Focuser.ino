@@ -5,14 +5,14 @@
 #include <U8x8lib.h>
 #include <U8g2lib.h>
 
-const int stepPin = 8;
-const int directionPin = 9;
-const int stepMode1 = 3;
-const int stepMode2 = 4;
-const int stepMode3 = 5;
-const int enablePin = 2;
-const int sleepPin = 7;
-const int resetPin = 6;
+const int stepPin = 3;
+const int directionPin = 2;
+const int stepMode1 = 8;
+const int stepMode2 = 7;
+const int stepMode3 = 6;
+const int enablePin = 9;
+const int sleepPin = 4;
+const int resetPin = 5;
 
 const int temperatureSensorPin = 3;
 
